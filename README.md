@@ -1,2 +1,2 @@
 ### У представленій структурі, DFS проходить граф просуваючись на наступну вершину, доки не опиниться у самому кінці. BFS проходить граф перевіряючи кожну сусідню вершину, постійно повертаючись назад. Різниця обумовлена принципами роботи алгоритмів. Послідовність проходження визначена через порядок додавання вершин в коді.
-[DFS](https://github.com/oliov/goit-algo-hw-06/blob/main/dfs.gif)vs[BFS](https://github.com/oliov/goit-algo-hw-06/blob/main/bfs.gif)
+DFS: ![DFS](https://github.com/oliov/goit-algo-hw-06/blob/main/dfs.gif) vs BFS: ![BFS](https://github.com/oliov/goit-algo-hw-06/blob/main/bfs.gif)
